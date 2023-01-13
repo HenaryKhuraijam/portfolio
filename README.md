@@ -1,6 +1,6 @@
-# Hello Microverse
+# Portfolio
 
-> Hello Microverse is first project for microverse .
+> My personal Portfolio Website .
 
 ## Built With
 
@@ -9,13 +9,14 @@
 
 ## Live Demo
 
-[Live Demo Link](http://127.0.0.1:5500/index.html)
+[Live Demo Link]()
+[Source Code Link](https://github.com/HenaryKhuraijam/portfolio)
 
 ## Getting started
 
 Go to the Folder where want to copy this repo and type the following cmds in you terminal:
 
-- git clone git@github.com:HenaryKhuraijam/Module1-hellomicroverse.git
+- git clone git@github.com:HenaryKhuraijam/portfolio.git
 
 ## Prerequisites
 
@@ -30,10 +31,6 @@ Go to the Folder where want to copy this repo and type the following cmds in you
 ## To Run App type the following command in your terminal
 
   - npm start
-
-### To Run test cases type the following command
-
-  - npm test
 
 ## Author
 

@@ -13,7 +13,6 @@ header {
   align-items: center;
   color: #6070ff;
   padding: 24px;
-  border: 1px solid red;
 }
 
 .brand {
@@ -22,4 +21,50 @@ header {
   line-height: 20px;
   letter-spacing: 0;
   text-align: center;
+}
+
+.headline {
+  background-image: url("./images/backgroundImage.png");
+  height: calc(100vh - 75px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 114px 24px;
+  gap: 12px;
+}
+
+.introduce {
+  color: #172b4d;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  letter-spacing: 0;
+  text-align: left;
+}
+
+.discription {
+  color: #344563;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0;
+  text-align: left;
+}
+
+.contact {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0;
+  text-align: left;
+  color: #7f8cff;
+}
+
+.social-connection {
+  text-decoration: none;
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  position: absolute;
+  margin-top: 280px;
 }

@@ -61,8 +61,6 @@ header {
 }
 
 .social-connection {
-  text-decoration: none;
-  list-style: none;
   display: flex;
   gap: 20px;
   position: absolute;

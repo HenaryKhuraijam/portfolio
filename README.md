@@ -9,7 +9,6 @@
 
 ## Live Demo
 
-[Live Demo Link]()
 [Source Code Link](https://github.com/HenaryKhuraijam/portfolio)
 
 ## Getting started

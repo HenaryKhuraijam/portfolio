@@ -55,7 +55,7 @@ body {
 .wrapper {
   display: grid;
   grid-template-rows: calc(100vh - 48px) repeat(3, auto);
-  background-color: #808080;
+  background-color: #f7f7f9;
   margin-top: 48px;
 }
 

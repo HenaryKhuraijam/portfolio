@@ -31,6 +31,8 @@ header {
   align-items: flex-start;
   padding: 114px 24px;
   gap: 12px;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .introduce {
